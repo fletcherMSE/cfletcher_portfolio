@@ -1,4 +1,4 @@
-## Data Science Portfolio (C. Fletcher)
+## C. Fletcher Data Science Portfolio
 Sample projects illustrating materials-focused data analysis and machine learning.
 <br>
 <br>
